@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/luke-h1/azure-devops-health-checker#readme",
   "dependencies": {
-    "sass": "^1.26.11"
+    "sass": "^1.58.3"
   }
 }
